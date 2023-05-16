@@ -1,0 +1,63 @@
+
+@media (max-width:1424px){
+
+}
+
+@media (max-width:1024px){
+
+    .review-section .carousel-item .carousel-caption img{
+        margin-top:  0rem ;
+        max-height: 60vh;
+        max-width: 70vw;
+    }
+
+}
+
+
+@media (max-width:991px){
+
+    .text-content{
+        width: 100%;
+
+    }
+
+    .nav-wrapper .navbar-brand img{
+        height: 3.8rem;
+    }
+
+    .nav-wrapper{
+        text-align: center;
+        background-color: var(--white-color);
+
+    }
+
+    .nav-wrapper .nav-link{
+        line-height: 1.875rem;
+    }
+
+    .review-section .carousel-item .carousel-caption img{
+        margin-top:  0rem ;
+        max-height: 60vh;
+        max-width: 70vw;
+    }
+}
+
+
+@media (max-width:769px){
+
+    .review-section .carousel-item .carousel-caption img{
+        margin-top:  0rem ;
+        max-height: 60vh;
+        max-width: 70vw;
+    }
+}
+
+
+@media (max-width:541px){
+
+    .review-section .carousel-item .carousel-caption img{
+        margin-top:  0rem ;
+        max-height: 90vh;
+        max-width: 70vw;
+    }
+}
